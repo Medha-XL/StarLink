@@ -14,6 +14,7 @@ public class oddNumber {
 			}
 			i++;
 		}
+		System.out.println("This is for Release 2");
 
 	}
 
