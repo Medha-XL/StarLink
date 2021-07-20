@@ -15,6 +15,7 @@ public class oddNumber {
 			i++;
 		   System.out.println("Fixing on main branch");
 		}
+		System.out.println("This is for Release 2");
 
 	}
 
